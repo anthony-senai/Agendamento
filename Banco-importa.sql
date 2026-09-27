@@ -1,4 +1,5 @@
--- phpMyAdmin SQL Dump
+-- ESSE ARQUIVO SERVE PARA IMPORTA O BANCO DE DADOS 
+--phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
